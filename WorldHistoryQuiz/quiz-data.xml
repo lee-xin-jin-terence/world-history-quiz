@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<quiz-data>
+	<question-and-answer>
+		<question>
+			During the First World War, which country signed the Peace Treaty (1917) with Germany
+		</question>
+		<options>
+			<option isCorrectAnswer="true">
+				England
+			</option>
+			<option >
+				USA
+			</option>
+			<option>
+				Russia
+			</option>
+			<option >
+				Austria
+			</option>
+		</options>
+		<explanation>
+			In December 1917, Germany agreed to an armistice and peace talks with Russia, and Lenin sent Leon Trotsky to Brest-Litovsk in Belarus to negotiate a treaty. The talks broke off after Germany demanded independence for Russian holdings in Eastern Europe, and in February 1918 fighting resumed on the eastern front. They signed the Peace Treaty.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			In which year, America joined the Second World War
+		</question>
+		<options>
+			<option>
+				1939
+			</option>
+			<option>
+				1940
+			</option>
+			<option isCorrectAnswer="true">
+				1941
+			</option>
+			<option >
+				1942
+			</option>
+		</options>
+		<explanation>
+			The United States did not enter the war until after the Japanese bombed the American fleet in Pearl Harbor, Hawaii, on December 7, 1941.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			The immediate cause for the out break of the first World War was
+		</question>
+		<options>
+			<option isCorrectAnswer="true">
+				The assassination of Archduke Francis Ferdinand
+			</option>
+			<option>
+				The imprisonment of Lenin
+			</option>
+			<option >
+				The ambition of America to dominate the world
+			</option>
+			<option >
+				The sudden death of Lloyd George
+			</option>
+		</options>
+		<explanation>
+			The assassination of Archduke Franz Ferdinand of the Austro-Hungarian Empire on June 28, 1914 in Sarajevo was the immediate cause of WWI.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			Who were the Axis powers in World War-II?
+		</question>
+		<options>
+			<option >
+				Poland Japan Germany
+			</option>
+			<option>
+				Italy Japan Britain
+			</option>
+			<option >
+				Germany Italy France
+			</option>
+			<option isCorrectAnswer="true">
+				Germany Italy Japan
+			</option>
+		</options>
+		<explanation>
+			The World War-II lasted from 1939 to 1945 fought between two opposite Military alliances the Allied powers (France, Great Britain, The United States, The Soviet Union) and the Axis powers (Germany, Italy, Japan).
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			On which side did Japan fight in the First World War?
+		</question>
+		<options>
+			<option >
+				None it was neutral
+			</option>
+			<option>
+				With Germany against United Kingdom
+			</option>
+			<option >
+				Against Russia on its own
+			</option>
+			<option isCorrectAnswer="true">
+				With United Kingdom against Germany
+			</option>
+		</options>
+		<explanation>
+			World War-I began with the assasination of Archduke Franz Ferdinaud. In this conflict Germany, Austria, Hungary, Bulgaria and Ottoman Empire (Central Power) fought against the Great Briain, France, Russia, Italy, Romania, Japan and the United States (Allied Power).
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			The last country of Axis power to surrender during the end of the World War II was
+		</question>
+		<options>
+			<option >
+				Germany
+			</option>
+			<option isCorrectAnswer="true">
+				Japan
+			</option>
+			<option >
+				Italy
+			</option>
+			<option >
+				France
+			</option>
+		</options>
+		<explanation>
+			Aboard the USS Missouri in Tokyo Bay, Japan formally surrenders to the Allies, bringing an end to World War II. By the summer of 1945, the defeat of Japan was a foregone conclusion. The Japanese navy and air force were destroyed.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			Who become the Chancellor of Germany for One Day after the death of Hitler during Second World War
+		</question>
+		<options>
+			<option >
+				Hermann Goering
+			</option>
+			<option >
+				Heinrich Himmler
+			</option>
+			<option >
+				Rudolf Hess
+			</option>
+			<option isCorrectAnswer="true">
+				Joseph Goebbels
+			</option>
+		</options>
+		<explanation>
+			Hitler committed suicide on 30 April. In accordance with Hitler’s will, Goebbels succeeded him as Chancellor of Germany; he served one day in this post.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			The war criminals of the World War-II were put to trial in
+		</question>
+		<options>
+			<option isCorrectAnswer="true">
+				Nuremburg
+			</option>
+			<option >
+				Peitersburg
+			</option>
+			<option >
+				Gettysburg
+			</option>
+			<option >
+				Peitsburg
+			</option>
+		</options>
+		<explanation>
+			Nuremberg trial were series of 13 trials carried out in Nurembeng, Germany held by the Allied forces after World War-II. The International tribunal sentenced 12 high ranking Nazis to death for war crimes on Oct 1, 1946. It is refferred as “the Greatest trial in history”.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			Where was republic established in Germany after the First World War
+		</question>
+		<options>
+			<option >
+				Munich
+			</option>
+			<option isCorrectAnswer="true">
+				Weimer
+			</option>
+			<option >
+				Berlin
+			</option>
+			<option >
+				Bavaria
+			</option>
+		</options>
+		<explanation>
+			The Weimar Republic was Germany’s government from 1919 to 1933, the period after World War I until the rise of Nazi Germany.
+		</explanation>
+	</question-and-answer>
+	<question-and-answer>
+		<question>
+			Who was the US President during World War II
+		</question>
+		<options>
+			<option >
+				Winston Churchill
+			</option>
+			<option >
+				Joseph Stalin
+			</option>
+			<option isCorrectAnswer="true">
+				Franklin D Roosevelt
+			</option>
+			<option >
+				Harry S Truman
+			</option>
+		</options>
+		<explanation>
+			President Franklin Delano Roosevelt and Vice President Henry A. Wallace won the election of 1940, and were at the helm of the nation as it prepared for and entered World War II.
+		</explanation>
+	</question-and-answer>
+</quiz-data>
