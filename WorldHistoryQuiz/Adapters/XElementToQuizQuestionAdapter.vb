@@ -106,12 +106,12 @@ Public Class XElementToQuizQuestionAdapter
     '''  </param>
     ''' <param name="quizQuestion">this is the return value of the sub, where
     ''' the Question property will be set</param>
-    ''' <throws name="InvalidOperationException">if the quizQuestionELement contains
+    ''' <throws name="InvalidOperationException">if the quizQuestionElement contains
     '''         no 'question' elements</throws>
-    Private Shared Sub RetrieveAndSetQuestion(ByRef quizQuestionELement As XElement,
+    Private Shared Sub RetrieveAndSetQuestion(ByRef quizQuestionElement As XElement,
                                              ByRef quizQuestion As QuizQuestion)
 
-        quizQuestion.Question = quizQuestionELement.Descendants("question").First().Value
+        quizQuestion.Question = quizQuestionElement.Descendants("question").First().Value
 
     End Sub
 
@@ -128,7 +128,7 @@ Public Class XElementToQuizQuestionAdapter
     ''' <param name="quizQuestion">this is the return value of the sub, where
     ''' the Explanation property will be set</param>
     ''' 
-    ''' <throws name="InvalidOperationException">if the quizQuestionELement has
+    ''' <throws name="InvalidOperationException">if the quizQuestionElement has
     '''         contains no 'explanation' element
     '''  </throws>
     Private Shared Sub RetrieveAndSetExplanation(ByRef quizQuestionElement As XElement,
@@ -151,7 +151,7 @@ Public Class XElementToQuizQuestionAdapter
     ''' <param name="quizQuestion">this is the return value of the sub, where
     ''' the Options property will be set</param>
     ''' 
-    ''' <throws name="InvalidOperationException">if the quizQuestionELement has
+    ''' <throws name="InvalidOperationException">if the quizQuestionElement has
     '''         contains no 'option' element
     '''  </throws>
     Private Shared Sub RetrieveAndSetOptions(ByRef quizQuestionElement As XElement,
@@ -186,7 +186,7 @@ Public Class XElementToQuizQuestionAdapter
     ''' <param name="quizQuestion">this is the return value of the sub, where
     ''' the CorrectAnswerIndex property will be set</param>
     ''' 
-    ''' <throws name="InvalidOperationException">if the quizQuestionELement has
+    ''' <throws name="InvalidOperationException">if the quizQuestionElement has
     '''         contains no 'option' element
     '''  </throws>
     Private Shared Sub RetrieveAndSetCorrectAnswerIndex(ByRef xElementObject As XElement,
